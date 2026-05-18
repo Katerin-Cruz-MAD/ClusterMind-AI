@@ -1,0 +1,6 @@
+{
+  "name": "ClusterMind AI - Análisis de Segmentación Inteligente",
+  "description": "Plataforma avanzada de clusterización de datos empresariales que guía al usuario desde el entendimiento del negocio hasta la generación de insights accionables mediante IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Data Analysis", "Machine Learning Visualizations", "AI Business Insights"]
+}
